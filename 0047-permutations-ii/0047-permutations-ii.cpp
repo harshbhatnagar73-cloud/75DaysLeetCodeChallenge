@@ -2,50 +2,42 @@ class Solution {
 public:
     int n;
     vector<vector<int>> result;
-
-    void solve( unordered_map<int,int>& mp,vector<int>& temp){
-        if(temp.size()==n){
-            result.push_back(temp);
-            return ;
+ 
+    void solve(vector<int>& nums , int idx){
+        if(idx==n){
+            result.push_back(nums);
+            return;
         }
 
+        unordered_set<int> uniqueSet;
 
-        for(auto& [num,count] : mp){
-            if(count==0){
+        for(int i=idx;i<n;i++){
+
+            if(uniqueSet.find(nums[i])!=uniqueSet.end()){
                 continue;
             }
-            //Back tracking
+
+            uniqueSet.insert(nums[i]);
+            swap(nums[i],nums[idx]);
+
+            solve(nums,idx+1);
+
+            swap(nums[i],nums[idx]);
 
 
-            //1st Do somthing
-            temp.push_back(num);
-            mp[num]--;
-
-            //2nd Explore
-            solve(mp,temp); // TRUST
-
-            //3rd pop 
-            temp.pop_back();
-             mp[num]++;
         }
     }
-
     
     vector<vector<int>> permuteUnique(vector<int>& nums) {
 
         n=nums.size();
 
-        unordered_map<int,int>mp;
-
-        for(int &num: nums){
-            mp[num]++;
-
-        }
-
-        vector<int> temp;
-        solve(mp,temp);
+        solve(nums,0);
 
         return result;
+        
+
+        
 
         
     }
