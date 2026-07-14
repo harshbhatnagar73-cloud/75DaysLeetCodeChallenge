@@ -31,11 +31,13 @@
 | ------- |
 | [0007-reverse-integer](https://github.com/harshbhatnagar73-cloud/75DaysLeetCodeChallenge/tree/master/0007-reverse-integer) |
 | [0067-add-binary](https://github.com/harshbhatnagar73-cloud/75DaysLeetCodeChallenge/tree/master/0067-add-binary) |
+| [0779-k-th-symbol-in-grammar](https://github.com/harshbhatnagar73-cloud/75DaysLeetCodeChallenge/tree/master/0779-k-th-symbol-in-grammar) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/harshbhatnagar73-cloud/75DaysLeetCodeChallenge/tree/master/0067-add-binary) |
 | [0078-subsets](https://github.com/harshbhatnagar73-cloud/75DaysLeetCodeChallenge/tree/master/0078-subsets) |
+| [0779-k-th-symbol-in-grammar](https://github.com/harshbhatnagar73-cloud/75DaysLeetCodeChallenge/tree/master/0779-k-th-symbol-in-grammar) |
 ## Simulation
 |  |
 | ------- |
@@ -53,4 +55,8 @@
 |  |
 | ------- |
 | [0229-majority-element-ii](https://github.com/harshbhatnagar73-cloud/75DaysLeetCodeChallenge/tree/master/0229-majority-element-ii) |
+## Recursion
+|  |
+| ------- |
+| [0779-k-th-symbol-in-grammar](https://github.com/harshbhatnagar73-cloud/75DaysLeetCodeChallenge/tree/master/0779-k-th-symbol-in-grammar) |
 <!---LeetCode Topics End-->
