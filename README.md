@@ -22,6 +22,7 @@
 | ------- |
 | [0022-generate-parentheses](https://github.com/harshbhatnagar73-cloud/75DaysLeetCodeChallenge/tree/master/0022-generate-parentheses) |
 | [0067-add-binary](https://github.com/harshbhatnagar73-cloud/75DaysLeetCodeChallenge/tree/master/0067-add-binary) |
+| [0606-construct-string-from-binary-tree](https://github.com/harshbhatnagar73-cloud/75DaysLeetCodeChallenge/tree/master/0606-construct-string-from-binary-tree) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -59,4 +60,16 @@
 |  |
 | ------- |
 | [0779-k-th-symbol-in-grammar](https://github.com/harshbhatnagar73-cloud/75DaysLeetCodeChallenge/tree/master/0779-k-th-symbol-in-grammar) |
+## Tree
+|  |
+| ------- |
+| [0606-construct-string-from-binary-tree](https://github.com/harshbhatnagar73-cloud/75DaysLeetCodeChallenge/tree/master/0606-construct-string-from-binary-tree) |
+## Depth-First Search
+|  |
+| ------- |
+| [0606-construct-string-from-binary-tree](https://github.com/harshbhatnagar73-cloud/75DaysLeetCodeChallenge/tree/master/0606-construct-string-from-binary-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0606-construct-string-from-binary-tree](https://github.com/harshbhatnagar73-cloud/75DaysLeetCodeChallenge/tree/master/0606-construct-string-from-binary-tree) |
 <!---LeetCode Topics End-->
