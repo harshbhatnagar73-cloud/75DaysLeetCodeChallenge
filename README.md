@@ -34,6 +34,7 @@
 | ------- |
 | [0007-reverse-integer](https://github.com/harshbhatnagar73-cloud/75DaysLeetCodeChallenge/tree/master/0007-reverse-integer) |
 | [0067-add-binary](https://github.com/harshbhatnagar73-cloud/75DaysLeetCodeChallenge/tree/master/0067-add-binary) |
+| [0069-sqrtx](https://github.com/harshbhatnagar73-cloud/75DaysLeetCodeChallenge/tree/master/0069-sqrtx) |
 | [0779-k-th-symbol-in-grammar](https://github.com/harshbhatnagar73-cloud/75DaysLeetCodeChallenge/tree/master/0779-k-th-symbol-in-grammar) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/harshbhatnagar73-cloud/75DaysLeetCodeChallenge/tree/master/1823-find-the-winner-of-the-circular-game) |
 ## Bit Manipulation
@@ -89,4 +90,8 @@
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/harshbhatnagar73-cloud/75DaysLeetCodeChallenge/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Binary Search
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/harshbhatnagar73-cloud/75DaysLeetCodeChallenge/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
